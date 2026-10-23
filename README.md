@@ -1,1 +1,1 @@
-# https-github.com-ywu60-Sb-halide-dimensionality-prediction
+gitclone https-github.com-ywu60-Sb-halide-dimensionality-prediction
